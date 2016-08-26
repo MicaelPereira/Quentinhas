@@ -1,0 +1,19 @@
+{
+  "name": "(quentinhas)",
+  "version": "1.0.0",
+  "description": "servico de quentinhas",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "micael",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.1",
+    "express": "^4.14.0",
+    "install": "^0.8.1",
+    "nodemon": "^1.10.2",
+    "npm": "^3.10.6",
+    "sudo": "^1.0.3"
+  }
+}
