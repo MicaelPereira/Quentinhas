@@ -1,0 +1,12 @@
+Comum:
+Login (fb)
+------------------------------------------------
+Cliente:
+Cardápio (mostrar somente com datas atuais).
+Histórico*
+-------------------------------------------------
+Vendedor:
+ListaDePedidos (Pedido dos clientes)
+CadastroCardapio (Cadastrar com a data, (mostrar os últimos cardápios de acordo com o dia da semana)*)
+TelaConfiguração (Horário para pedido, cancelar pedido).
+Histórico

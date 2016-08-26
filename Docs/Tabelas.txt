@@ -1,0 +1,6 @@
+Pessoa (id, descricao, nome, sobrenome, idTipoPessoa, idLogin, Ativo);
+TipoDePessoa(Id, Descricao); --Cliente ou Vendedor.
+Login(id, email, senha, token);
+Cardapio(Id, descricao, Data, IdPessoaVendedor);
+Parametros(Id, Descricao, DataModificacao, Data);
+Pedido(Id, IdPessoaVendedor, IdPessoaCliente, IdCardapio);
